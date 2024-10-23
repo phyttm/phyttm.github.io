@@ -1,2 +1,2 @@
-# {c:red}texto vermelho.{/c}
+{c:red}texto vermelho.{/c}
 
