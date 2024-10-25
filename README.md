@@ -10,5 +10,5 @@ Olá Meu nome é Henrique, eu estudo no IFPR no curso de TI:
 | risoto de palmito    | ler    | god of war    |
 
 
-Esse é a meu gato:
+Esse é meu gato:
 ![20240225_133237](https://github.com/user-attachments/assets/559e4c35-26a9-4a2a-b213-90953040c2d4)
