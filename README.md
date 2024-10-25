@@ -3,6 +3,7 @@
 Olá Meu nome é Henrique, eu estudo no IFPR no curso de TI:
 ![20230909_151643 (1)](https://github.com/user-attachments/assets/f65969e5-9841-4e58-a89d-ce0dd1dc56ee)
 
+
 | comidas favoritas       | Hobbys       | Jogos favoritos      |
 | -------------- | -------------- | -------------- |
 | Churrasco    | nadar    | Red dead redemption    |
