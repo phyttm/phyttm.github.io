@@ -25,8 +25,5 @@ A doença de Parkinson é uma doença neurodegenerativa que afeta uma região do
 
 Há casos em que a doença pode ocorrer antes dos 50 anos, nestes casos é conhecido como Doença de Parkinson Precoce. No caso da doença de Parkinson Precoce (DPP) há divergencias sobre quando começar a utilizar os medicamentos, visto que os mesmos pode causar complicações de forma precoce, como é o caso do levodopa[^1]
 
-Alguns dos artigos cíentificos pesquisados:
-* Doença de Parkinson: revisão bibliografica
-* 
 
 [^1]: Levodopa é um medicamento muito forte que serve como substituto da dopamina
