@@ -1,13 +1,13 @@
-# Quem sou eu
+# Doença de Parkinson
 
-Olá Meu nome é Henrique, eu estudo no IFPR no curso de TI:
-![20230909_151643 (1)](https://github.com/user-attachments/assets/f65969e5-9841-4e58-a89d-ce0dd1dc56ee)
+A doença de Parkinson é uma doença neurodegenerativa que afeta uma região do mesencéfalo conhecida como substancia negra
+## Região do mesencéfalo:
+![image](https://github.com/user-attachments/assets/9fe5c191-78e5-4383-9527-101004c21f40)
 
-| comidas favoritas       | Hobbys       | Jogos favoritos      |
-| -------------- | -------------- | -------------- |
-| Churrasco    | nadar    | Red dead redemption    |
-| Sushi   | desenhar    |  elden ring   |
-| risoto de palmito    | ler    | god of war    |
+3 dos principais sintomas são:
+* Tremores involuntarios
+* Rigidez muscular
+* Dificuldade na fala
+*È importante destacar nem todos os pacientes tem esses sintomas, cado caso é um caso, podendo assim cada ter diferentes sintomas.*
 
-Esse é meu gato:
-![20240225_133237](https://github.com/user-attachments/assets/559e4c35-26a9-4a2a-b213-90953040c2d4)
+Há casos em que a doença pode ocorrer antes dos 50 anos, nestes casos é conhecido como Doença de Parkinson Precoce. No caso da doença de Parkinson Precoce (DPP) há divergencias sobre quando começar a utilizar os medicamentos, visto que os mesmos pode causar complicações de forma precoce, como é o caso do levodopa
