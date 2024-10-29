@@ -16,10 +16,16 @@ A doença de Parkinson é uma doença neurodegenerativa que afeta uma região do
 * Tremores involuntarios
 * Rigidez muscular
 * Dificuldade na fala
+
+## Outros sintomas:
+![image](https://github.com/user-attachments/assets/4e2acf36-731f-48aa-8d87-9163cae2fdaa)
+
   
 *È importante destacar que nem todos os pacientes tem esses sintomas, cado caso é um caso, podendo assim cada ter diferentes sintomas.*
 
 Há casos em que a doença pode ocorrer antes dos 50 anos, nestes casos é conhecido como Doença de Parkinson Precoce. No caso da doença de Parkinson Precoce (DPP) há divergencias sobre quando começar a utilizar os medicamentos, visto que os mesmos pode causar complicações de forma precoce, como é o caso do levodopa[^1]
+
+
 
 
 [^1]: Levodopa é um medicamento muito forte que serve como substituto da dopamina
