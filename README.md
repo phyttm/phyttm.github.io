@@ -1,6 +1,8 @@
 # Doença de Parkinson
 
 Em 1817 James Parkinson escreveu um livro sobre os principais sintomas de uma doença que nos mais tarde seria conhecida como doença de Parkinson
+![image](https://github.com/user-attachments/assets/e5e5c399-da2a-429e-8b23-648a41e9bd0b)
+
 
 *Sempre se deve falar doença de parkinson ao ínves de mal de parkinson por ser uma doença como todas e não se deve colocar o mal na frente.*
 
