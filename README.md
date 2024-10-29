@@ -1,5 +1,9 @@
 # Doença de Parkinson
 
+Em 1817 James Parkinson escreveu um livro sobre os principais sintomas de uma doença que nos mais tarde seria conhecida como doença de Parkinson
+
+*Sempre se deve falar doença de parkinson ao ínves de mal de parkinson por ser uma doença como todas e não se deve colocar o mal na frente.*
+
 A doença de Parkinson é uma doença neurodegenerativa que afeta uma região do mesencéfalo conhecida como substancia negra causando a morte de celulas no local e consequentemente causando a diminuição na produção da dopamina
 ## Região do mesencéfalo:
 ![image](https://github.com/user-attachments/assets/9fe5c191-78e5-4383-9527-101004c21f40)
